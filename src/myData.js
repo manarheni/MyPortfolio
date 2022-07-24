@@ -6,10 +6,10 @@ export const fr = {
     phone: "+21623366541",
     email: "manarheni9@gmail.com",
     intro: "Architecte de projet et développeuse Web Full Stack innovante avec 2 ans d'expérience dans la conception et le codage de sites Web, d'applications Web et mobile.Talent démontré pour le développement Web frontend et backend afin d'optimiser la présence en ligne.",
-    linkedin: "Manar-heni",
+    linkedin: "Manar heni",
     facebook: "Manar heni",
     instagram: "ManarHeni",
-    cv: "Manarheni-Resume-Juin22-FR.pdf",
+    cv: "cv.pdf",
     education: [
         {
             logo: "issat.png",
@@ -178,6 +178,13 @@ export const fr = {
             code: "https://github.com/MaamounGrissa/autodomkst",
             url: "https://www.figma.com/file/P87csK6BLPHbaRVL9S3Z4m/CZAR-team-library?node-id=0%3A1",
             skills: ["next", "css"],
+        },
+         {
+            name: "Volkswagen Almaty",
+            photo: "volkswagen-almaty.png",
+            code: "",
+            url: "https://volkswagen-almaty.kz/",
+            skills: ["joomla", "sass"],
         },
         {
             name: "Tunisia Events",

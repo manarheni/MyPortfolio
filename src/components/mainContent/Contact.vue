@@ -27,11 +27,11 @@
                 <img src="./../../assets/contacts/gmail.png">
                 <span v-text="data.email" />
             </a>
-            <a :href="'https://www.linkedin.com/in/' + data.linkedin + '/'" target="_BLANK" :class="data.lang === 'ar' ? 'item reverse' : 'item' ">
+            <a :href="'https://www.linkedin.com/in/manar-heni-52113117a/'" target="_BLANK" :class="data.lang === 'ar' ? 'item reverse' : 'item' ">
                 <img src="./../../assets/contacts/linkedin.png">
                 <span v-text="data.linkedin" />
             </a>
-            <a :href="'https://www.facebook.com/' + data.facebook + '/'" target="_BLANK" :class="data.lang === 'ar' ? 'item reverse' : 'item' ">
+            <a :href="'https://www.facebook.com/manarheni848/'" target="_BLANK" :class="data.lang === 'ar' ? 'item reverse' : 'item' ">
                 <img src="./../../assets/contacts/facebook.png">
                 <span v-text="data.facebook" />
             </a>
